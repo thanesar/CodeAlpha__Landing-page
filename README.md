@@ -1,1 +1,1 @@
-# CodeAlpha__Landing-page
+# CodeAlpha_Landing-Page
